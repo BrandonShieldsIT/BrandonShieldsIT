@@ -26,16 +26,16 @@
 
 ## 🔬 Home Lab Projects
 
-### 🔧 Active Directory Lab
+### 🔧 active-directory-user-management-troubleshooting
 - Created and managed users, groups, and permissions
 - Simulated account lockouts and password resets
 - Practiced troubleshooting login issues
 
-### 🌐 Network Troubleshooting Lab
+### 🌐 network-troubleshooting-connectivity-lab
 - Diagnosed connectivity issues using ping, ipconfig, and traceroute
 - Simulated DNS and DHCP failures
 
-### 🎧 Help Desk Simulation Lab
+### 🎧 help-desk-simulation-troubleshooting-lab
 - Practiced resolving common user issues
 - Focused on troubleshooting workflows and customer communication
 
